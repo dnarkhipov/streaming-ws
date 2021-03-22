@@ -23,4 +23,4 @@ Read the blog post: [Real-time data streaming using FastAPI and WebSockets](http
 
 Read the blog post: [Streaming video with FastAPI](https://stribny.name/blog/fastapi-video).
 
-[Petr Stříbný] <https://github.com/stribny>
+[Petr Stříbný]: <https://github.com/stribny>
